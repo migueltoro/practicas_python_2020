@@ -6,7 +6,7 @@ Created on 3 nov. 2020
 
 from dataclasses import dataclass
 from typing import TypeVar,List
-from us.lsi.population.Dato import Dato
+from us.lsi.population.DatoPoblacion import Dato
 from us.lsi.tools.Files import lineas_de_csv
 from us.lsi.tools.Iterables import str_iterable
 from us.lsi.tools.Draw import draw_multiline, draw_barchart
